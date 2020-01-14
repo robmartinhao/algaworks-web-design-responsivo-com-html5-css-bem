@@ -1,15 +1,7 @@
-h1 {
-	font-family: Verdana;
-}
-
-#titulo {
-	color:blue;
-}
-
-.destaque {
-	color: red;
-}
-
-p.missao {
+#titulo, .missao {
 	font-family: Arial;
+}
+
+.introducao, .missao {
+	color: red;
 }
