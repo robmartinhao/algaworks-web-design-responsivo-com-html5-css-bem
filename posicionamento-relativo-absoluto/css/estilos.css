@@ -26,6 +26,8 @@ body {
   }
   
   .caixa3 {
+    position: relative;
+
     width: 300px;
     height: 300px;
   
@@ -33,6 +35,11 @@ body {
   }
   
   .caixa4 {
+    position: absolute;
+    right: 0;
+    top: -200px;
+    z-index: 100;
+
     width: 150px;
     height: 150px;
   
